@@ -57,22 +57,3 @@ app.listen(port, () => {
     //callback
     console.log("Backend Nodejs is running on the port : " + port);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
